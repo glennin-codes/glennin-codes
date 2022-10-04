@@ -1,5 +1,5 @@
 ### Hi there guys👋
-<h1 align="center">Hi 👋, I'm GLLEN AYIENDA</h1>
+<h1 align="center">Hi 👋, I'm GLEN AYIENDA</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glennin-codes&label=Profile%20views&color=0e75b6&style=flat" alt="glennin-codes" /> </p>
