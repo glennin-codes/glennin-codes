@@ -1,4 +1,4 @@
-### Hi there guys👋
+### Hi there 👋
 <h1 align="center">Hi 👋, I'm GLEN AYIENDA</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 
@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [https://github.com/glennin-codes?tab=repositories](https://github.com/glennin-codes?tab=repositories)
 
-- ⚡ Fun fact **I dont like watching long youtube tutorial but I watch them anyway**
+- ⚡ Fun fact **I dont like watching long youtube tutorials but I watch them anyway**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
