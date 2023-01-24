@@ -9,7 +9,7 @@ I am a professional who designs, develops, and maintains software systems.  I ha
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=glennin-codes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=glennin-codes&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glennin-codes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glennin-codes&layout=compact)](https://github.com/glennin-codes/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=glennin-codes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
