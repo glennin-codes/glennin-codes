@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm GLEN AYIENDA</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 
- <p align="left"> <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" alt="glennin-codes" /> </p> 
+ <p align="left"> <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glennin-codes)](https://github.com/anuraghazra/github-readme-stats)" alt="glennin-codes" /> </p> 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glennin-codes" alt="glennin-codes" /></a> </p> -->
 
