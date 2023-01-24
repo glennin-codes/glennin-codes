@@ -1,9 +1,5 @@
 # 💫 About Me:
-Crafting elegant solutions,
-In code my passion evolves.
-A student of computer science,
-Challenges are my expertise.        
-
+I am a professional who designs, develops, and maintains software systems. I have strong technical skills and experience in programming languages and software development methodologies. I am able to write efficient and maintainable code and work well in a team. I am always looking to improve my skills and stay up-to-date with the latest technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/glenayienda) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/glenayienda)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/glenayienda) 
