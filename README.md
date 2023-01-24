@@ -17,6 +17,7 @@ Here are some ideas to get you started:
  <p align="left"> <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glennin-codes)](https://github.com/anuraghazra/github-readme-stats)" alt="glennin-codes" /> </p> 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glennin-codes" alt="glennin-codes" /></a> </p> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <a href="https://twitter.com/glenayienda" target="blank"><img src="https://img.shields.io/twitter/follow/glenayienda?logo=twitter&style=for-the-badge" alt="glenayienda" /></a> </p>
 
