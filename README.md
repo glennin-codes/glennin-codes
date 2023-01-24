@@ -17,6 +17,8 @@ I am a professional who designs, develops, and maintains software systems.  I ha
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+#### 😂 fun fact about me:
+I hate watching long youtube tutorials ,but i jus watch them anyway
 <!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
