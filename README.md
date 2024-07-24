@@ -16,7 +16,7 @@ I am a professional who designs, develops, and maintains software systems. I hav
 
 ![](https://github-readme-stats.vercel.app/api?username=glennin-codes&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=glennin-codes&theme=radical&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/glennin-codes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glennin-codes&layout=compact&theme=radical)](https://github.com/glennin-codes/github-readme-stats)
 
 <!-- &show_icons=true -->
 
@@ -30,7 +30,7 @@ I am a professional who designs, develops, and maintains software systems. I hav
 
 #### 😂 fun fact about me:
 
-I hate watching long youtube tutorials ,but i jus watch them anyway
+I hate watching long youtube tutorials ,but I jus watch them anyway
 
 <!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
