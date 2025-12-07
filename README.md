@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer who loves Rust.
+Software Engineer .
 
 ## 🌐 Socials:
 
