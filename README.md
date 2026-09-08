@@ -32,7 +32,9 @@ Software Engineer .
 
  
 **BlockChain**
+-  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 -  ![ICP](https://img.shields.io/badge/ICP-%230E4FFF.svg?style=for-the-badge&logo=internet-computer&logoColor=white)
+
 
 
 [![](https://visitcount.itsvg.in/api?id=glennin-codes&icon=2&color=3)](https://visitcount.itsvg.in)
